@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;   
+
+}
+body{
+    background-color: #F1EAD1;
+}
+h1{
+    font-weight: 560;
+    font-size: 40px;
+    
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px 0 0 50px;
+}
+ 
+#form{
+    height: 500px ;
+    width: 750px;
+    background-color: #097D4C;
+    color: white;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+    padding: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    line-height: 35px;
+    
+
+}
+#radio{
+    display: flex;
+    margin: 0 10px 0 0;
+}
+#align{
+    display: flex;
+    /* color: red; */
+}
+.patient{
+    height: 30px ;
+    width: 400px;
+}
+#dob{
+    height: 30px;
+    width: 150px;
+}
+#y{
+    height: 20px;
+    width: 100px;
+    margin-top: 10px;
+    
+
+}
+
+button{
+    background-color: #F1EAD1;
+    color: black;
+    height: 25px;
+    width: 120px;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 2px;
+}
+#button{
+    
+    
+    text-align: center;
+}
+#yes{
+    display: flex;
+}
+#no{
+    display: flex;
+    margin-left: 10px;
+    
+}
+#yearss{
+    margin-left: 10px;
+}
