@@ -1,12 +1,11 @@
 *{
     margin: 0;
     padding:0;
-    box-sizing: border-box;
-    /* display: flex; */
+    box-sizing: border-box;   
 
-
-    
-
+}
+body{
+    background-color: #F1EAD1;
 }
 h1{
     font-weight: 530;
@@ -17,13 +16,18 @@ h1{
 }
  
 #form{
-    height: 350px ;
-    width: 500px;
-    background-color: green;
+    height: 500px ;
+    width: 650px;
+    background-color: #097D4C;
     color: white;
     margin: auto;
     margin-top: 50px;
     border-radius: 4px;
+    padding: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    line-height: 35px;
+    
 
 }
 #radio{
@@ -31,4 +35,32 @@ h1{
 }
 #align{
     display: flex;
+}
+.patient{
+    height: 30px ;
+    width: 400px;
+}
+#dob{
+    height: 30px;
+    width: 150px;
+}
+#y{
+    height: 20px;
+    width: 100px;
+
+}
+
+button{
+    background-color: #F1EAD1;
+    color: black;
+    height: 25px;
+    width: 120px;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 2px;
+}
+#button{
+    
+    
+    text-align: center;
 }
