@@ -1,0 +1,56 @@
+#head{
+    position: relative;
+    left: 110px;
+    color: green;
+    bottom: 50px;
+    font-size: 1.5rem;
+}
+#calender{
+    position: relative;
+    left:110px ;
+    bottom: 40px;
+}
+#a{
+    position: relative;
+    left: 150px;
+    bottom: 80px;
+
+}
+#image{
+    position: relative;
+    left: 1050px;
+    height: 800px;
+    bottom: 300px;
+}
+body{
+    background-color: #F1EAD1;
+}
+.next{
+    position: relative;
+    left: 500px;
+    bottom: 10px;
+    padding: 10px;
+    background-color: #097D4C;
+    color: white;
+    border-radius: 15px;
+}
+.line{
+    position: relative;
+    bottom: 40px;
+    background-color: green;
+    width: 70%;
+    height: 1px;
+}
+.navbutton{
+    position: relative;
+    left: 110px;
+    padding: 10px;
+    background-color: #097D4C;
+    color: white;
+    border-radius: 15px
+}
+#heading{
+    /* width: ; */
+    margin-left: 89px;
+    height: 120px;
+}
